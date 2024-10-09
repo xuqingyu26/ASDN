@@ -6,7 +6,7 @@ PyTorch implementation of  "Adaptive Spectral Denoising Network for Efficient Ma
 ## *Highlights:*
 #### 1. *LASTv2 is an improved version of [LAST](https://github.com/ljx43031/DeepMTT-algorithm).*
 #### 2. *The trajectories in LASTv2 has longer observation sequence and incorporating upto three distinct motion models*
- <p align="center"> <img src="https://github.com/xuqingyu26/ASDN/blob/main/LASTv22.png" width="100%"></p>
+ <p align="center"> <img src="https://github.com/xuqingyu26/ASDN/blob/main/LASTv22.png" width="50%"></p>
 
  
 ### Note:
